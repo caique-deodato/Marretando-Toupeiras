@@ -3,6 +3,10 @@ Jogo mobile (Android) desenvolvido como parte da nota da matéria "Programação
 Para desenvolvimento foi utilizado a ferramenta [MIT App Inventor](https://appinventor.mit.edu/).
 [Link do jogo na galeria do MIT App Inventor](https://gallery.appinventor.mit.edu/?galleryid=f30a2cdb-e120-4fbe-9d96-899501374a50)
 
+## **Baixar jogo:**
+
+[Download Marretando Toupeiras 1.0](https://github.com/caique-deodato/Marretando-Toupeiras/releases/download/apk/Marretando_Toupeiras1.0.apk)
+
 ## **Descrição:**
 
 Marretando Toupeiras é um jogo no estilo "Whack-a-mole" desenvolvido como atividade educativa para instituição UNIP.
